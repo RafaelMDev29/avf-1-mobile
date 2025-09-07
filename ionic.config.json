@@ -1,0 +1,7 @@
+{
+  "name": "avf 1 mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
